@@ -1,3 +1,7 @@
+<img src="https://img.shields.io/badge/language-c++-brightgreen" alt="Language" style="zoom:150%;" /> <img src="https://img.shields.io/github/license/changqj/Mean-Value-Coordinates-in-3D" alt="github license" style="zoom:150%;" />
+
+
+
 <div align="center">
    <h1>
        <a href="https://github.com/changqj/Mean-Value-Coordinates-in-3D">Mean Value Coordinates in 3D [c++]</a>
