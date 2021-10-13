@@ -15,9 +15,10 @@
 Assuming you have cloned this project in your home directory `d:\mvc3d`, we will next compile this project with `cmake`.
 
 ```powershell
-midir bin
-cd bin
-cmake ..
+$ cd d:\mvc3d
+$ midir bin
+$ cd bin
+$ cmake ..
 ```
 
 Once you have completed these steps, you can find the `.sln` file in the `\bin` folder, which is the project file that is successfully compiled for you. 
