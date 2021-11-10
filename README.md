@@ -1,9 +1,15 @@
+<img src="https://img.shields.io/badge/language-c++-brightgreen" alt="Language" style="zoom:150%;" /> <img src="https://img.shields.io/github/license/changqj/Mean-Value-Coordinates-in-3D" alt="github license" style="zoom:150%;" />
+
+
+
 <div align="center">
+    <img width="500px" src="fig/mvc3d.png">
    <h1>
        <a href="https://github.com/changqj/Mean-Value-Coordinates-in-3D">Mean Value Coordinates in 3D [c++]</a>
     </h1>
    <h3>  | <a href="https://www.sciencedirect.com/science/article/pii/S0167839605000725"> Paper link on Sciencedirect </a>  | <a href="https://www.mn.uio.no/math/english/people/aca/michaelf/papers/mv3d.pdf"> Pdf version link </a> | </h3>
 </div>
+
 
 
 > This project implemented the **Mean Value Coordinates in 3D** algorithm in `c++`
