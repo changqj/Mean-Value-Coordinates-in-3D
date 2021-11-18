@@ -22,7 +22,7 @@ Assuming you have cloned this project in your home directory `d:\mvc3d`, we will
 
 ```powershell
 $ cd d:\mvc3d
-$ midir bin
+$ mkdir bin
 $ cd bin
 $ cmake ..
 ```
