@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    <img width="500px" src="https://github.com/changqj/Mean-Value-Coordinates-in-3D/blob/main/fig/MVC3D.png">
+    <img width="500px" src="../main/fig/MVC3D.png">
    <h1>
        <a href="https://github.com/changqj/Mean-Value-Coordinates-in-3D">Mean Value Coordinates in 3D [c++]</a>
     </h1>
