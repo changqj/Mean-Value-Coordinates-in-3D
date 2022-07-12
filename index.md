@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    <img width="500px" src="fig/MVC3D.png">
+    <img width="500px" src="MVC3D.png">
    <h3>  | <a href="https://www.sciencedirect.com/science/article/pii/S0167839605000725"> Paper link on Sciencedirect </a>  | <a href="https://www.mn.uio.no/math/english/people/aca/michaelf/papers/mv3d.pdf"> Pdf version link </a> | </h3>
 </div>
 
